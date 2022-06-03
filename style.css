@@ -147,10 +147,9 @@ h2 {
     flex-direction: column;
     background-color: #E5E7EB;
     box-sizing: border-box;
-    height: 450px;
     justify-content: center;
     align-items: center;
-    padding: 0 520px;
+    padding: 100px 520px;
 }
 
 .third-section blockquote {
